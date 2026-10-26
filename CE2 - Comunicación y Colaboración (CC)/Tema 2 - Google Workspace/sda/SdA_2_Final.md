@@ -45,7 +45,7 @@ Abre **Google Drive**, crea un nuevo **Documento de Google Docs**, ponle como t�
 3. **Descargar y abrir la web en el navegador:**
    * Descarga directamente el archivo **`index.html`** generado por Gemini a tu ordenador.
    * Haz doble clic sobre tu archivo **`index.html`** para abrirlo en **Google Chrome** y ver la página web funcionando en vivo en tu pantalla.
-   * *(Opcional):* Si quieres inspeccionar el código interno para ver cómo está escrita por dentro, haz clic derecho sobre el archivo **`index.html`** ➔ **Abrir con** ➔ **Bloc de Notas**.
+   * Inspecciona el código interno para ver cómo está escrita por dentro, haz clic derecho sobre el archivo **`index.html`** ➔ **Abrir con** ➔ **Bloc de Notas**.
 4. **Mochila Digital y Evidencia en Google Docs:**
    * Guarda tu archivo **`index.html`** dentro de la carpeta `01_Documentos_Oficiales` de tu Google Drive.
    * En tu documento de Google Docs, pega una **captura de pantalla de tu web `index.html` funcionando abierta en Chrome** y añade una breve explicación (2-3 líneas) explicando cómo Gemini ha integrado tu logotipo, los textos del borrador y tu paleta de color RGB.
