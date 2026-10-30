@@ -37,7 +37,7 @@ Abre **Google Drive**, crea un nuevo **Documento de Google Docs**, ponle como t�
    * Registra los valores **RGB** exactos de tu color corporativo (ejemplo: *Rojo: 255, Verde: 120, Azul: 0*) explicando que esta paleta técnica servirá para mantener la identidad visual en la futura página web (*landing page*) o presentaciones de la empresa.
    * Inserta la imagen de tu logotipo en la cabecera de este apartado.
 
-#### **Paso 2: Generación Directa del Fichero `index.html` con IA - Gemini (SdA 2.1 + IA)**
+#### **Paso 2: Generación Directa del Fichero `index.html` con IA - (Gemini, ChatGPT, etc) (SdA 2.1 + IA)**
 1. **Adjuntar archivos y pedir el archivo a Gemini:** Abre **Gemini** (`gemini.google.com`). Haz clic en **Adjuntar archivo / imagen** (icono `+` o clip) y sube la imagen de tu **logotipo** (PNG o GIF descargado de PiskelApp) y el **documento borrador** de tu Startup.
 2. **Prompt para obtener el fichero `index.html` directamente:** Pídele a Gemini que te genere directamente el archivo `index.html` para la landing page promocional de tu empresa.
    * *Ejemplo de Prompt para Gemini:*  
