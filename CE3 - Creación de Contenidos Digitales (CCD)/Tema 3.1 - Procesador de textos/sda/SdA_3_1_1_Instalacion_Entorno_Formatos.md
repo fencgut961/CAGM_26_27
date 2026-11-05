@@ -1,4 +1,4 @@
-# **SdA 3.1: Puesta a Punto, Entorno de Trabajo y Gestión de Formatos en LibreOffice Writer**
+# **SdA 3.1.1: Puesta a Punto, Entorno de Trabajo y Gestión de Formatos en LibreOffice Writer**
 
 ---
 
