@@ -39,7 +39,7 @@ El trabajo se elaborará en **Google Docs** y se entregará a través de **Moodl
 1. **Crear el documento en Google Drive:**
    * Entra en **Google Drive** (`drive.google.com`) desde Chrome.
    * Haz clic en **`+ Nuevo`** ➔ **`Documentos de Google`**.
-   * Asigna al documento el título: **`SdA 2.1 - Pixel Art y Codificacion - [Tu Nombre y Apellidos]`**.
+   * Asigna al documento el título: **`SdA 1.2.1 - Pixel Art y Codificacion - [Tu Nombre y Apellidos]`**.
 
 2. **Redactar y adjuntar evidencias:**
    * Escribe los valores RGB anotados en el Paso 1 (rojo puro, blanco, negro y tu color favorito).
@@ -48,7 +48,7 @@ El trabajo se elaborará en **Google Docs** y se entregará a través de **Moodl
 
 3. **Exportar a PDF y subir a Moodle:**
    * Menú del documento: **`Archivo` ➔ `Descargar` ➔ `Documento PDF (.pdf)`**.
-   * Abre la plataforma **Moodle Centros**, entra en la tarea **SdA 2.1** y entrega el archivo **PDF**.
+   * Abre la plataforma **Moodle Centros**, entra en la tarea **SdA 1.2.1** y entrega el archivo **PDF**.
 
 ---
 
