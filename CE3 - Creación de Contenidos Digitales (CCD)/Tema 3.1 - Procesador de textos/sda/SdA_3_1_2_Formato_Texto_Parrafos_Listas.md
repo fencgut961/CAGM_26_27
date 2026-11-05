@@ -162,6 +162,55 @@ Añade un cuadro destacado para avisos legales o recordatorios:
 
 ---
 
+### 🏛️ Anatomía del modelo «EXPONE – SOLICITA» en Writer
+Para resolver cualquier duda, la estructura formal de una instancia administrativa se organiza en 7 bloques visuales que deben encajar en una única página A4:
+[Márgenes: 2,5 cm en toda la hoja]
+
+(Derecha, 10 pt, Gris)                       Manuel Moreno Sánchez
+                                             Curso de Acceso a Grado Medio (CAGM) — IES La Marisma
+                                             Correo: m.moreno@g.educaand.es | Tel.: 612 345 678
+
+(Izquierda, 11 pt, Negrita)
+A LA DIRECCIÓN / SECRETARÍA DEL IES LA MARISMA (HUELVA)
+
+(Centrado, 13-14 pt, Negrita con línea inferior)
+SOLICITUD FORMAL DE EXPEDICIÓN DE CERTIFICADO ACADÉMICO
+────────────────────────────────────────────────────────────────────────
+
+EXPONE:
+[Sangría 1,25 cm, Justificado]
+    Que en el presente curso escolar me encuentro formalmente matriculado/a
+en el Curso de Acceso a Ciclos Formativos de Grado Medio en este centro
+educativo, asistiendo con regularidad a las sesiones lectivas del módulo de
+Competencia Digital Básica y cumpliendo con el plan de trabajo...
+
+SOLICITA:
+    1. La emisión del certificado oficial de matrícula y aprovechamiento.
+    2. El desglose detallado de las horas formativas cursadas hasta la fecha.
+    3. La tramitación mediante los siguientes cauces oficiales:
+        a. Emisión digital en PDF con código seguro de verificación (CSV).
+        b. Notificación a la cuenta corporativa del alumnado.
+
+Documentación que se adjunta a la presente solicitud:
+    ■ Fotocopia cotejada del Documento Nacional de Identidad (DNI/NIE).
+    ■ Justificante oficial de matrícula en el centro.
+
+┌──────────────────────────────────────────────────────────────────────┐
+│ ▌ NOTA INFORMATIVA (LOPD): De conformidad con la normativa de        │
+│   protección de datos, la información facilitada será tratada de     │
+│   forma confidencial exclusivamente para el expediente académico.    │
+└──────────────────────────────────────────────────────────────────────┘
+[Caja con borde izquierdo grueso de 2,5 pt y fondo gris/azul suave]
+
+                                             En Huelva, a 5 de noviembre de 2026
+
+                                             (Espacio para firma manual)
+
+                                             Fdo.: Manuel Moreno Sánchez
+                                             DNI: 48.901.234-K
+
+---
+
 ## **3. RÚBRICA DE EVALUACIÓN COMPETENCIAL (SdA 3.1.2)**
 
 La calificación de esta actividad se calcula mediante la **media aritmética (escala 1 a 10)** de los siguientes 4 criterios oficiales:
