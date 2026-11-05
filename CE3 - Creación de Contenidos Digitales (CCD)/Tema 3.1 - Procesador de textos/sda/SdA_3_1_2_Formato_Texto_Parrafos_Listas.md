@@ -162,52 +162,67 @@ Añade un cuadro destacado para avisos legales o recordatorios:
 
 ---
 
-### 🏛️ Anatomía del modelo «EXPONE – SOLICITA» en Writer
-Para resolver cualquier duda, la estructura formal de una instancia administrativa se organiza en 7 bloques visuales que deben encajar en una única página A4:
-[Márgenes: 2,5 cm en toda la hoja]
+### 🏛️ Esquema Visual y Anatomía de la Solicitud (EXPONE – SOLICITA)
 
-(Derecha, 10 pt, Gris)                       Manuel Moreno Sánchez
-                                             Curso de Acceso a Grado Medio (CAGM) — IES La Marisma
-                                             Correo: m.moreno@g.educaand.es | Tel.: 612 345 678
+La estructura formal de una instancia administrativa se organiza en **7 bloques visuales** que deben encajar armónicamente en **una única página A4**:
 
-(Izquierda, 11 pt, Negrita)
+```text
+[Configuración de página: A4 vertical | Márgenes: 2,5 cm en toda la hoja]
+
+--------------------------------------------------------------------------------
+(BLOQUE 1: MEMBRETE DEL SOLICITANTE - Alinear a la derecha, 10 pt, Gris oscuro)
+                                                       [Nombre y Apellidos]
+                     Curso de Acceso a Grado Medio (CAGM) — IES La Marisma
+                     Correo: usuario@g.educaand.es | Teléfono: 600 000 000
+
+(BLOQUE 2: DESTINATARIO OFICIAL - Alinear a la izquierda, 11 pt, Negrita)
 A LA DIRECCIÓN / SECRETARÍA DEL IES LA MARISMA (HUELVA)
+[Espaciado posterior: 0,50 cm]
 
-(Centrado, 13-14 pt, Negrita con línea inferior)
+(BLOQUE 3: TÍTULO PRINCIPAL - Centrado, 14 pt, Negrita con borde inferior fino)
 SOLICITUD FORMAL DE EXPEDICIÓN DE CERTIFICADO ACADÉMICO
-────────────────────────────────────────────────────────────────────────
+────────────────────────────────────────────────────────────────────────────────
+[Espaciado posterior: 0,60 cm]
 
-EXPONE:
-[Sangría 1,25 cm, Justificado]
+(BLOQUE 4: ENCABEZADO Y CUERPO DEL EXPONE)
+EXPONE:  (12 pt, Negrita, Izquierda)
+[Párrafo justificado | Sangría 1.ª línea: 1,25 cm | Interlineado: 1,5 | Espacio post.: 0,30 cm]
     Que en el presente curso escolar me encuentro formalmente matriculado/a
 en el Curso de Acceso a Ciclos Formativos de Grado Medio en este centro
 educativo, asistiendo con regularidad a las sesiones lectivas del módulo de
-Competencia Digital Básica y cumpliendo con el plan de trabajo...
+Competencia Digital Básica y cumpliendo con el plan formativo establecido...
 
-SOLICITA:
+(BLOQUE 5: ENCABEZADO Y LISTAS DEL SOLICITA)
+SOLICITA:  (12 pt, Negrita, Izquierda)
+[Lista numerada automática F12]
     1. La emisión del certificado oficial de matrícula y aprovechamiento.
-    2. El desglose detallado de las horas formativas cursadas hasta la fecha.
-    3. La tramitación mediante los siguientes cauces oficiales:
-        a. Emisión digital en PDF con código seguro de verificación (CSV).
-        b. Notificación a la cuenta corporativa del alumnado.
+    2. El desglose de horas formativas cursadas hasta la fecha actual.
+    3. La tramitación mediante el procedimiento administrativo correspondiente:
+       [Subnivel con tecla Tabulador]
+       3.1. Emisión digital en PDF con firma electrónica verificable.
+       3.2. Notificación a través de Moodle Centros o correo oficial.
 
 Documentación que se adjunta a la presente solicitud:
+[Lista con viñetas Mayús+F12 - Símbolo cuadrado o rombo]
     ■ Fotocopia cotejada del Documento Nacional de Identidad (DNI/NIE).
-    ■ Justificante oficial de matrícula en el centro.
+    ■ Justificante de matrícula y pago de tasas administrativas del centro.
 
-┌──────────────────────────────────────────────────────────────────────┐
-│ ▌ NOTA INFORMATIVA (LOPD): De conformidad con la normativa de        │
-│   protección de datos, la información facilitada será tratada de     │
-│   forma confidencial exclusivamente para el expediente académico.    │
-└──────────────────────────────────────────────────────────────────────┘
-[Caja con borde izquierdo grueso de 2,5 pt y fondo gris/azul suave]
+(BLOQUE 6: CUADRO DESTACADO / NOTA LEGAL LOPD)
+[Sangría izq./dcha.: 1,50 cm | Borde izq.: 2,5 pt azul | Fondo gris claro | Letra capital: 2 líneas]
+┌──────────────────────────────────────────────────────────────────────────────┐
+│ ▌ NOTA INFORMATIVA (LOPD): De conformidad con la normativa vigente sobre     │
+│   protección de datos personales, la información facilitada será tratada de  │
+│   manera confidencial exclusivamente para el trámite del expediente académico.│
+└──────────────────────────────────────────────────────────────────────────────┘
 
-                                             En Huelva, a 5 de noviembre de 2026
+(BLOQUE 7: DATACIÓN, LUGAR Y FIRMA FORMAL - Alinear a la derecha)
+                                             En Huelva, a [Día] de [Mes] de 2026
 
-                                             (Espacio para firma manual)
+                                             (Espacio en blanco para firma)
 
-                                             Fdo.: Manuel Moreno Sánchez
-                                             DNI: 48.901.234-K
+                                             Fdo.: [Tu Nombre y Apellidos]
+                                             DNI: 00000000X
+--------------------------------------------------------------------------------
 
 ---
 
