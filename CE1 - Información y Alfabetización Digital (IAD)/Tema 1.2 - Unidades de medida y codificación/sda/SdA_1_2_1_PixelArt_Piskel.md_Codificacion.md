@@ -1,4 +1,4 @@
-# **SdA 2.1: Pixel Art & Animación (Codificación de Imágenes y Colores con PiskelApp)**
+# **SdA 1.2.1: Pixel Art & Animación (Codificación de Imágenes y Colores con PiskelApp)**
 
 ---
 
