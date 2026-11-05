@@ -225,6 +225,7 @@ Documentación que se adjunta a la presente solicitud:
 --------------------------------------------------------------------------------
 
 ```
+Ejemplo -> [SdA_3_1_2_Formato_Texto_Parrafos_Listas.odt](SdA_3_1_2_Formato_Texto_Parrafos_Listas.odt)
 
 ---
 
