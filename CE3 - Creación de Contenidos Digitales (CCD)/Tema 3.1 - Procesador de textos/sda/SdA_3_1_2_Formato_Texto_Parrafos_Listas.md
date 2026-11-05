@@ -224,6 +224,8 @@ Documentación que se adjunta a la presente solicitud:
                                              DNI: 00000000X
 --------------------------------------------------------------------------------
 
+```
+
 ---
 
 ## **3. RÚBRICA DE EVALUACIÓN COMPETENCIAL (SdA 3.1.2)**
