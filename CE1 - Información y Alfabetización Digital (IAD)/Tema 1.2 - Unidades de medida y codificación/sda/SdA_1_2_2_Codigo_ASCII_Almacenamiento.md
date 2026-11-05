@@ -1,4 +1,4 @@
-# **SdA 2.2: El Mensaje Secreto (Codificación ASCII y Múltiplos de Almacenamiento)**
+# **SdA 1.2.2: El Mensaje Secreto (Codificación ASCII y Múltiplos de Almacenamiento)**
 
 ---
 
@@ -39,7 +39,7 @@ El trabajo se entregará redactando las respuestas en **Google Docs**:
 1. **Crear el documento en Google Drive:**
    * Entra en **Google Drive** (`drive.google.com`).
    * Crea un documento nuevo: **`+ Nuevo`** ➔ **`Documentos de Google`**.
-   * Asigna el título: **`SdA 2.2 - Codificacion ASCII - [Tu Nombre y Apellidos]`**.
+   * Asigna el título: **`SdA 1.2.2 - Codificacion ASCII - [Tu Nombre y Apellidos]`**.
 
 2. **Redactar las evidencias:**
    * Escribe la palabra descifrada del Paso 1.
@@ -49,7 +49,7 @@ El trabajo se entregará redactando las respuestas en **Google Docs**:
 
 3. **Exportar a PDF y subir a Moodle:**
    * Menú del documento: **`Archivo` ➔ `Descargar` ➔ `Documento PDF (.pdf)`**.
-   * Abre la plataforma **Moodle Centros**, entra en la tarea **SdA 2.2** y entrega el archivo **PDF**.
+   * Abre la plataforma **Moodle Centros**, entra en la tarea **SdA 1.2.2** y entrega el archivo **PDF**.
 
 ---
 
