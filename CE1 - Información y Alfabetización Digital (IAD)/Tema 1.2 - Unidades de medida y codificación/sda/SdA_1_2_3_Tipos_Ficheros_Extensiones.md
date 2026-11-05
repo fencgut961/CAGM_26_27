@@ -1,4 +1,4 @@
-# **SdA 2.3: Detector de Ficheros (Extensiones, Formatos Multimedia y Archivos Comprimidos)**
+# **SdA 1.2.3: Detector de Ficheros (Extensiones, Formatos Multimedia y Archivos Comprimidos)**
 
 ---
 
@@ -37,7 +37,7 @@ El trabajo se elaborará en **Google Docs** y se entregará en **Moodle Centros*
 1. **Crear el documento en Google Drive:**
    * Entra en **Google Drive** (`drive.google.com`).
    * Haz clic en **`+ Nuevo`** ➔ **`Documentos de Google`**.
-   * Asigna el título: **`SdA 2.3 - Tipos de Ficheros - [Tu Nombre y Apellidos]`**.
+   * Asigna el título: **`SdA 1.2.3 - Tipos de Ficheros - [Tu Nombre y Apellidos]`**.
 
 2. **Redactar y adjuntar evidencias:**
    * Copia la lista de extensiones y sus tipos correspondientes (Paso 2).
@@ -46,7 +46,7 @@ El trabajo se elaborará en **Google Docs** y se entregará en **Moodle Centros*
 
 3. **Exportar a PDF y subir a Moodle:**
    * Menú del documento: **`Archivo` ➔ `Descargar` ➔ `Documento PDF (.pdf)`**.
-   * Entra en **Moodle Centros**, abre la tarea **SdA 2.3** y sube el archivo **PDF**.
+   * Entra en **Moodle Centros**, abre la tarea **SdA 1.2.3** y sube el archivo **PDF**.
 
 ---
 
