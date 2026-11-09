@@ -4,7 +4,7 @@
 
 ## **1. DESCRIPCIÓN Y OBJETIVO DE LA ACTIVIDAD**
 
-Bienvenido/a al **Tema 3.1: Procesador de textos**. En esta primera Situación de Aprendizaje (**SdA 3.1**), darás tus primeros pasos con un procesador de textos profesional, estándar, gratuito y de código abierto: **LibreOffice Writer**.
+Bienvenido/a al **Tema 3.1: Procesador de textos**. En esta Situación de Aprendizaje (**SdA 3.1.1**), darás tus primeros pasos con un procesador de textos profesional, estándar, gratuito y de código abierto: **LibreOffice Writer**.
 
 A diferencia de las herramientas en la nube (como Google Docs), una suite ofimática de escritorio como **LibreOffice** se instala directamente en el sistema operativo de tu ordenador. Esto te permite trabajar con total autonomía sin depender de conexión a Internet, ofreciendo un control exhaustivo sobre los archivos locales, las tipografías instaladas en tu equipo y la exportación avanzada de documentos.
 
