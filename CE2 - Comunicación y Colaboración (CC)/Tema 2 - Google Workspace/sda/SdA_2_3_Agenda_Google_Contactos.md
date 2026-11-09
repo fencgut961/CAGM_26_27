@@ -1,4 +1,4 @@
-# 📘 Guía Moodle - SdA 2.3: Gestión de Contactos Corporativos y Etiquetas de Equipo
+# 📘 SdA 2.3: Gestión de Contactos Corporativos y Etiquetas de Equipo
 
 **Asignatura:** Competencia Digital Básica  
 **Curso:** Acceso a Grado Medio (IES La Marisma - Huelva)  
