@@ -74,7 +74,7 @@ CAPTURA DE PANTALLA DE LOS PERMISOS EN DRIVE:
 
 3. Pega tu captura pulsando **`Ctrl + V`**.
 4. Descarga el trabajo en PDF: **Archivo 📁 > Descargar > Documento PDF (.pdf)**.
-5. Entra en Moodle Centros y **sube tu PDF a la tarea SdA 1.5**.
+5. Entra en Moodle Centros y **sube tu PDF a la tarea SdA 2.5**.
 
 ---
 

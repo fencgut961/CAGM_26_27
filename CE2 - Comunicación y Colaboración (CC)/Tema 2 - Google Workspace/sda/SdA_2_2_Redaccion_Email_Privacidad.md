@@ -71,7 +71,7 @@ CAPTURA DE PANTALLA DEL EMAIL REDACTADO:
 
 4. Pega tu captura de pantalla pulsando **`Ctrl + V`**.
 5. Haz clic en **Archivo 📁 > Descargar > Documento PDF (.pdf)**.
-6. Entra en Moodle Centros y **sube tu archivo PDF a la tarea SdA 1.2**.
+6. Entra en Moodle Centros y **sube tu archivo PDF a la tarea SdA 2.2**.
 
 ---
 

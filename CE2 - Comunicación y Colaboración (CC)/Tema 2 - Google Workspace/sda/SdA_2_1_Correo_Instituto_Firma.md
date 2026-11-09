@@ -82,7 +82,7 @@ CAPTURA DE PANTALLA DE DEMOSTRACIÓN:
 
 5. Haz clic debajo de "CAPTURA DE PANTALLA DE DEMOSTRACIÓN" y pulsa las teclas **`Ctrl + V`** para pegar la captura.
 6. **Descarga el documento para Moodle:** En el menú de arriba de Google Docs, haz clic en **Archivo 📁 > Descargar > Documento PDF (.pdf)**.
-7. **Entra a Moodle Centros**, busca la tarea **SdA 1.1** y **sube tu archivo PDF**. *(También puedes pegar el enlace compartido del documento con acceso Lector).*
+7. **Entra a Moodle Centros**, busca la tarea **SdA 2.1** y **sube tu archivo PDF**. *(También puedes pegar el enlace compartido del documento con acceso Lector).*
 
 ---
 

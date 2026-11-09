@@ -72,7 +72,7 @@ CAPTURA DE PANTALLA DE LA PESTAÑA TAREAS EN CHAT:
 
 3. Pega la imagen pulsando **`Ctrl + V`**.
 4. Descarga tu trabajo en PDF: **Archivo 📁 > Descargar > Documento PDF (.pdf)**.
-5. Entra en Moodle Centros y **sube tu archivo PDF a la tarea SdA 1.4**.
+5. Entra en Moodle Centros y **sube tu archivo PDF a la tarea SdA 2.4**.
 
 ---
 

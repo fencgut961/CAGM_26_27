@@ -71,7 +71,7 @@ CAPTURA DE PANTALLA DE GOOGLE CONTACTOS:
 
 3. Pega tu captura pulsando **`Ctrl + V`**.
 4. Haz clic en **Archivo 📁 > Descargar > Documento PDF (.pdf)**.
-5. Entra en Moodle Centros y **sube tu archivo PDF a la tarea SdA 1.3**.
+5. Entra en Moodle Centros y **sube tu archivo PDF a la tarea SdA 2.3**.
 
 ---
 

@@ -79,7 +79,7 @@ CAPTURAS DE PANTALLA DE DEMOSTRACIÓN:
 
 3. Pega tus dos capturas de pantalla pulsando **`Ctrl + V`**.
 4. Descarga tu trabajo en PDF: **Archivo 📁 > Descargar > Documento PDF (.pdf)**.
-5. Entra en Moodle Centros y **sube tu PDF a la tarea SdA 1.6**.
+5. Entra en Moodle Centros y **sube tu PDF a la tarea SdA 2.6**.
 
 ---
 

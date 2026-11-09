@@ -163,7 +163,7 @@ Abre de nuevo tu documento **`Memoria_Fundacional_[Nombre de tu Startup]`** en G
 
 3. **Subida a Moodle Centros:**
    * Accede a la plataforma **Moodle Centros**.
-   * Entra en la tarea **`SdA 2 Final: Proyecto Integrador Startup`**.
+   * Entra en la tarea **`SdA 2 Final`**.
    * Sube el archivo comprimido **`.zip`** descargado.
 
 ---
