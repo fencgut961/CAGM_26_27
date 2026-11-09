@@ -66,9 +66,7 @@ El trabajo se elaborará en la nube utilizando **Google Docs** y se entregará a
 
 ---
 
-## **3. RÚBRICA DE EVALUACIÓN COMPETENCIAL**
-
-De acuerdo con la Programación Didáctica, la calificación de cada criterio de evaluación se calcula mediante media aritmética en los tramos cuantitativos oficializados: **Insuficiente (1-4), Suficiente (5-6), Notable (7-8) y Sobresaliente (9-10)**:
+## **RÚBRICA DE EVALUACIÓN COMPETENCIAL**
 
 | Criterio de Evaluación | Insuficiente (1 - 4) | Suficiente (5 - 6) | Notable (7 - 8) | Sobresaliente (9 - 10) |
 | :--- | :--- | :--- | :--- | :--- |

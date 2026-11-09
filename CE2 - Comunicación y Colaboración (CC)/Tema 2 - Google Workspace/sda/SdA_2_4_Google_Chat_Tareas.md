@@ -76,7 +76,7 @@ CAPTURA DE PANTALLA DE LA PESTAÑA TAREAS EN CHAT:
 
 ---
 
-## 📊 Rúbrica Oficial de Calificación (Escala 1 a 10)
+## **RÚBRICA DE EVALUACIÓN COMPETENCIAL**
 
 | Criterio de Evaluación | Sobresaliente (9 - 10) | Notable / Bien (7 - 8.9) | Suficiente (5 - 6.9) | Insuficiente (1 - 4.9) |
 | :--- | :--- | :--- | :--- | :--- |

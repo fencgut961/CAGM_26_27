@@ -54,7 +54,7 @@ El trabajo se entregará mediante un documento creado en **Google Docs**:
 
 ---
 
-## **3. RÚBRICA DE EVALUACIÓN COMPETENCIAL**
+## **RÚBRICA DE EVALUACIÓN COMPETENCIAL**
 
 | Criterio de Evaluación | Insuficiente (1 - 4) | Suficiente (5 - 6) | Notable (7 - 8) | Sobresaliente (9 - 10) |
 | :--- | :--- | :--- | :--- | :--- |

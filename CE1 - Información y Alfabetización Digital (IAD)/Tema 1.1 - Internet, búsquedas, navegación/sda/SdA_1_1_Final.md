@@ -72,7 +72,7 @@ Abre **Google Drive**, crea un nuevo **Documento de Google** titulado **`SdA_1_1
 
 ---
 
-## **3. RÚBRICA DE EVALUACIÓN COMPETENCIAL (CE1 - IAD)**
+## **RÚBRICA DE EVALUACIÓN COMPETENCIAL**
 
 La calificación de esta tarea integradora final se calcula mediante la **media aritmética** de los 5 criterios de evaluación oficiales de la Competencia Específica 1 (IAD):
 
