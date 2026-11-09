@@ -47,7 +47,7 @@ Haz una captura de pantalla de la ventana flotante **"Compartir"** en Drive dond
 
 ```text
 ====================================================================
-FICHA DE TRABAJO - SdA 1.5: ALMACENAMIENTO EN LA NUBE Y PERMISOS
+FICHA DE TRABAJO - SdA 2.5: ALMACENAMIENTO EN LA NUBE Y PERMISOS
 ====================================================================
 Nombre del Alumno/a: [Tu nombre completo]
 Curso: Acceso a Grado Medio - IES La Marisma

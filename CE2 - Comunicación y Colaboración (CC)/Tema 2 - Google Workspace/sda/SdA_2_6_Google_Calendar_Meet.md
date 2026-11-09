@@ -50,7 +50,7 @@ Debes realizar **2 capturas de pantalla**:
 
 ```text
 ====================================================================
-FICHA DE TRABAJO - SdA 1.6: CALENDAR, MEET Y NETIQUETA VIRTUAL
+FICHA DE TRABAJO - SdA 2.6: CALENDAR, MEET Y NETIQUETA VIRTUAL
 ====================================================================
 Nombre del Alumno/a: [Tu nombre completo]
 Curso: Acceso a Grado Medio - CDB (IES La Marisma)

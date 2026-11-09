@@ -49,7 +49,7 @@ Antes de pulsar Enviar, haz una captura de pantalla donde se vea claramente la v
 
 ```text
 ====================================================================
-FICHA DE TRABAJO - SdA 1.2: REDACCIÓN FORMAL Y PRIVACIDAD EN EMAIL
+FICHA DE TRABAJO - SdA 2.2: REDACCIÓN FORMAL Y PRIVACIDAD EN EMAIL
 ====================================================================
 Nombre del Alumno/a: [Tu nombre completo]
 Curso: Acceso a Grado Medio - CDB

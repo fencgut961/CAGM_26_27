@@ -46,7 +46,7 @@ Haz una captura de pantalla dentro de tu Espacio de Chat donde se vea la pestañ
 
 ```text
 ====================================================================
-FICHA DE TRABAJO - SdA 1.4: ESPACIOS DE CHAT Y TAREAS EN EQUIPO
+FICHA DE TRABAJO - SdA 2.4: ESPACIOS DE CHAT Y TAREAS EN EQUIPO
 ====================================================================
 Nombre del Alumno/a: [Tu nombre completo]
 Curso: Acceso a Grado Medio - CDB (IES La Marisma)

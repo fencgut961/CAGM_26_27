@@ -46,7 +46,7 @@ Haz una captura de la pantalla de Google Contactos donde se vea seleccionada la 
 
 ```text
 ====================================================================
-FICHA DE TRABAJO - SdA 1.3: AGENDA Y CONTACTOS CORPORATIVOS
+FICHA DE TRABAJO - SdA 2.3: AGENDA Y CONTACTOS CORPORATIVOS
 ====================================================================
 Nombre del Alumno/a: [Tu nombre completo]
 Curso y Centro: Acceso a Grado Medio - IES La Marisma
