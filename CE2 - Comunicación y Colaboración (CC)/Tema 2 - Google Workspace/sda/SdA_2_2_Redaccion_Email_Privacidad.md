@@ -35,7 +35,7 @@ Demostrarás tu trabajo **creando un documento en Google Docs con tu ficha de en
 
 Antes de pulsar Enviar, haz una captura de pantalla donde se vea claramente la ventana flotante de tu correo con la casilla **CCO**, el **Asunto**, el **Texto redactado** y el **Archivo adjunto**:
 
-1. Pulsa a la vez las teclas: **`Windows ⊞ + Shift ⇧ + S`** (o **`Impr Pant`**).
+1. Pulsa a la vez las teclas: **`Windows + Shift + S`** (o **`Impr Pant`**).
 2. Selecciona con el ratón la ventana del correo redactado.
 3. ¡Listo! La imagen se guardará en tu portapapeles. Ahora haz clic en **Enviar** para enviar el correo real a tu profesor/a.
 

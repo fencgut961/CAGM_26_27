@@ -41,7 +41,7 @@ Haz una captura de la pantalla de Google Contactos donde se vea seleccionada la 
 
 ## 📄 Paso 3: Elaboración de la Ficha en Google Docs
 
-1. Abre **Google Docs** (`docs.google.com`) y crea un documento nuevo titulado: **`SdA_1_3_Apellidos_Nombre`**.
+1. Abre **Google Docs** (`docs.google.com`) y crea un documento nuevo titulado: **`SdA_2_3_Apellidos_Nombre`**.
 2. Copia y pega esta plantilla dentro de tu documento de Google Docs:
 
 ```text
