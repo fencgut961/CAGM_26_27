@@ -1,4 +1,4 @@
-# **SdA 2 Final: Proyecto Integrador "Lanzamiento y Gestión Digital de una Startup"**
+# 📘 **SdA 2 Final. "Lanzamiento y Gestión Digital de una Startup"**
 
 ---
 
