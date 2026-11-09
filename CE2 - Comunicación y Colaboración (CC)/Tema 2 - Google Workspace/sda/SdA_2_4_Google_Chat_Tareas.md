@@ -1,9 +1,8 @@
-# 📘 Guía Moodle - SdA 1.4: Trabajo en Equipo con Google Chat y Asignación de Tareas
+# 📘 SdA 2.4: Trabajo en Equipo con Google Chat y Asignación de Tareas
 
 **Asignatura:** Competencia Digital Básica  
 **Curso:** Acceso a Grado Medio (IES La Marisma - Huelva)  
 **Herramientas:** Google Chat + Google Docs  
-**Criterios de Evaluación:** CC3.1.1 | IAD3.3.1  
 **Formato de Entrega en Moodle:** Ficha de trabajo en **Google Docs** descargada en PDF (o enlace compartido) subida a Moodle.
 
 ---
@@ -42,7 +41,7 @@ Haz una captura de pantalla dentro de tu Espacio de Chat donde se vea la pestañ
 
 ## 📄 Paso 3: Elaboración de la Ficha en Google Docs
 
-1. Abre **Google Docs** (`docs.google.com`) y crea un documento llamado: **`SdA_1_4_Apellidos_Nombre`**.
+1. Abre **Google Docs** (`docs.google.com`) y crea un documento llamado: **`SdA_2_4_Apellidos_Nombre`**.
 2. Copia y pega este recuadro en tu documento de Google Docs:
 
 ```text

@@ -1,9 +1,8 @@
-# 📘 Guía Moodle - SdA 1.3: Gestión de Contactos Corporativos y Etiquetas de Equipo
+# 📘 Guía Moodle - SdA 2.3: Gestión de Contactos Corporativos y Etiquetas de Equipo
 
 **Asignatura:** Competencia Digital Básica  
 **Curso:** Acceso a Grado Medio (IES La Marisma - Huelva)  
 **Herramientas:** Google Contactos + Google Docs  
-**Criterios de Evaluación:** IAD3.3.2 | CC3.3.1  
 **Formato de Entrega en Moodle:** Ficha de trabajo en **Google Docs** descargada en PDF (o enlace compartido) entregada en Moodle Centros.
 
 ---

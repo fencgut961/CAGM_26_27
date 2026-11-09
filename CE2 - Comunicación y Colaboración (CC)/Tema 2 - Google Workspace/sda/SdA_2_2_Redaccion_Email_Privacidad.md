@@ -1,9 +1,8 @@
-# 📘 Guía Moodle - SdA 1.2: Redacción de Correo Profesional, Archivos Adjuntos y Privacidad (CCO)
+# 📘 SdA 2.2: Redacción de Correo Profesional, Archivos Adjuntos y Privacidad (CCO)
 
 **Asignatura:** Competencia Digital Básica  
 **Curso:** Acceso a Grado Medio (IES La Marisma - Huelva)  
 **Herramientas:** Gmail + Google Docs (Documentos de Google)  
-**Criterios de Evaluación:** CC3.3.1 | CC3.1.2  
 **Formato de Entrega en Moodle:** Documento de **Google Docs** descargado en PDF (o enlace compartido) entregado en la tarea de Moodle.
 
 ---
@@ -45,7 +44,7 @@ Antes de pulsar Enviar, haz una captura de pantalla donde se vea claramente la v
 ## 📄 Paso 3: Elaboración de la Ficha en Google Docs
 
 1. Abre **Google Docs** (`docs.google.com`) desde el menú de 9 puntitos ⠿ de tu correo.
-2. Crea un documento en blanco y ponle el nombre: **`SdA_1_2_Apellidos_Nombre`**.
+2. Crea un documento en blanco y ponle el nombre: **`SdA_2_2_Apellidos_Nombre`**.
 3. Copia este recuadro y pégalo en tu documento de Google Docs:
 
 ```text

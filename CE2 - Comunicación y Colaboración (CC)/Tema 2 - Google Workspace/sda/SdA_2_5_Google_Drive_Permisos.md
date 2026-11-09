@@ -1,9 +1,8 @@
-# 📘 Guía Moodle - SdA 1.5: Organización de Archivos en la Nube y Control de Permisos en Google Drive
+# 📘 SdA 2.5: Organización de Archivos en la Nube y Control de Permisos en Google Drive
 
 **Asignatura:** Competencia Digital Básica  
 **Curso:** Acceso a Grado Medio (IES La Marisma - Huelva)  
 **Herramientas:** Google Drive + Google Docs  
-**Criterios de Evaluación:** IAD3.3.2 | CC3.1.2  
 **Formato de Entrega en Moodle:** Documento de **Google Docs** descargado en PDF (o enlace compartido) entregado en Moodle.
 
 ---
@@ -43,7 +42,7 @@ Haz una captura de pantalla de la ventana flotante **"Compartir"** en Drive dond
 
 ## 📄 Paso 3: Elaboración de la Ficha en Google Docs
 
-1. Abre **Google Docs** (`docs.google.com`) y crea un documento titulado: **`SdA_1_5_Apellidos_Nombre`**.
+1. Abre **Google Docs** (`docs.google.com`) y crea un documento titulado: **`SdA_2_5_Apellidos_Nombre`**.
 2. Copia y pega esta plantilla dentro de tu Google Docs:
 
 ```text

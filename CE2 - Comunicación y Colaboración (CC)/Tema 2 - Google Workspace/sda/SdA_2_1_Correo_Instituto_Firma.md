@@ -1,9 +1,8 @@
-# 📘 Guía Moodle - SdA 1.1: Activación de Correo Corporativo, Firma y Salvavidas Antierrores
+# 📘 SdA 2.1: Activación de Correo Corporativo, Firma y Salvavidas Antierrores
 
 **Asignatura:** Competencia Digital Básica  
 **Curso:** Acceso a Grado Medio (IES La Marisma - Huelva)  
 **Herramientas:** Gmail (Google Workspace) + Google Docs (Documentos de Google)  
-**Criterios de Evaluación:** IAD3.3.1 | CC3.1.1  
 **Formato de Entrega en Moodle:** Documento creado en **Google Docs** (entregado como archivo PDF descargado o enlace compartido).
 
 ---
@@ -51,7 +50,7 @@ No necesitas instalar Word ni ningún programa. Usaremos **Google Docs**:
 
 1. En tu correo de Gmail, haz clic arriba a la derecha en el botón de los **9 puntitos ⠿** (Aplicaciones de Google) y selecciona **Documentos** (o entra en `docs.google.com`).
 2. Haz clic en **"Crear documento en blanco"** ➕.
-3. Arriba a la izquierda, en "Documento sin título", ponle de nombre: **`SdA_1_1_Apellidos_Nombre`**.
+3. Arriba a la izquierda, en "Documento sin título", ponle de nombre: **`SdA_2_1_Apellidos_Nombre`**.
 4. Copia el contenido del siguiente recuadro y **pégalo dentro de tu Google Docs**:
 
 ```text

@@ -1,9 +1,8 @@
-# 📘 Guía Moodle - SdA 1.6: Organización de Eventos en Calendar y Protocolo de Netiqueta en Google Meet
+# 📘 SdA 2.6: Organización de Eventos en Calendar y Protocolo de Netiqueta en Google Meet
 
 **Asignatura:** Competencia Digital Básica  
 **Curso:** Acceso a Grado Medio (IES La Marisma - Huelva)  
 **Herramientas:** Google Calendar + Google Meet + Google Docs  
-**Criterios de Evaluación:** CC3.4.1 | CC3.4.2  
 **Formato de Entrega en Moodle:** Ficha de trabajo en **Google Docs** descargada en PDF (o enlace compartido) entregada en Moodle.
 
 ---
@@ -46,7 +45,7 @@ Debes realizar **2 capturas de pantalla**:
 
 ## 📄 Paso 3: Elaboración de la Ficha en Google Docs
 
-1. Abre **Google Docs** (`docs.google.com`) y crea un documento titulado: **`SdA_1_6_Apellidos_Nombre`**.
+1. Abre **Google Docs** (`docs.google.com`) y crea un documento titulado: **`SdA_2_6_Apellidos_Nombre`**.
 2. Copia y pega esta plantilla dentro de tu Google Docs:
 
 ```text
