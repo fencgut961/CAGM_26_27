@@ -144,7 +144,7 @@ Abre de nuevo tu documento **`Memoria_Fundacional_[Nombre de tu Startup]`** en G
 *Objetivo: Comprimir toda la estructura de archivos generada dentro de la carpeta CAGM y realizar la entrega oficial.*
 
 1. **Comprobación de la estructura en Google Drive:**  
-   Antes de descargar, accede a tu carpeta **`CAGM`** y entra en **`01_PROYECTO_STARTUP_[Tu Nombre y Apellidos]`**. Verifica que contiene exactamente estos archivos ordenados en sus 3 subcarpetas:
+   Antes de descargar, accede a tu carpeta **`CAGM`** y entra en **`PROYECTO_STARTUP_[Tu Nombre y Apellidos]`**. Verifica que contiene exactamente estos archivos ordenados en sus 3 subcarpetas:
    * 📁 **`01_Documentos_Oficiales`**:
      * 📄 Documento de Google Docs: `Memoria_Fundacional_[Nombre de tu Startup]`
      * 🌐 Archivo web: `index.html` (generado por Gemini)
@@ -156,10 +156,10 @@ Abre de nuevo tu documento **`Memoria_Fundacional_[Nombre de tu Startup]`** en G
      * 📕 Informe completo exportado: `Memoria_Fundacional_[Nombre de tu Startup].pdf`
 
 2. **Descarga en archivo comprimido (.ZIP):**
-   * En Google Drive, dentro de tu carpeta **`CAGM`**, haz clic derecho sobre la carpeta **`01_PROYECTO_STARTUP_[Tu Nombre y Apellidos]`**.
+   * En Google Drive, dentro de tu carpeta **`CAGM`**, haz clic derecho sobre la carpeta **`PROYECTO_STARTUP_[Tu Nombre y Apellidos]`**.
    * Selecciona la opción **Descargar**.
    * Google Drive comprimirá automáticamente toda la carpeta con sus 3 subcarpetas y todos los archivos en un único archivo comprimido:  
-     **`01_PROYECTO_STARTUP_[Tu Nombre y Apellidos].zip`**
+     **`PROYECTO_STARTUP_[Tu Nombre y Apellidos].zip`**
 
 3. **Subida a Moodle Centros:**
    * Accede a la plataforma **Moodle Centros**.
